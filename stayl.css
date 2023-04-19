@@ -1,0 +1,24 @@
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0;
+}
+.hhhhff {
+  text-align: center;
+  width: 435px;
+  height: 105px;
+  margin-left: 450px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 70px;
+  line-height: 105px;
+
+  color: #1c2323;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  align-items: center;
+}
